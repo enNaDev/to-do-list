@@ -1,4 +1,4 @@
-// Toggle collapse the input field
+// Toggle collapse input field
 $(".fa-plus").click(function(){
 	$("input[type='text']").fadeToggle();
 });
