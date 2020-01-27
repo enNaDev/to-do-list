@@ -1,6 +1,6 @@
 # to-do-list
 
-https://codepen.io/enNaDev/pen/abzxdZa
+https://codepen.io/enNaDev/pen/gObyPer
 
 A Todo list to keep track of what you have to do.
 This app is to organize your schedule. 
