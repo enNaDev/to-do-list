@@ -1,6 +1,6 @@
-# to-do-list
+## To-do list
 
-### Live demo: https://ennadev.github.io/to-do-list/
+#### Live demo: https://ennadev.github.io/to-do-list/
 
 A Todo list to keep track of what you have to do.
 This app is to organize your schedule.
